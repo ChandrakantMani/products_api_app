@@ -2,5 +2,6 @@
 {
     public class ErrorHandlingMiddleware
     {
+        //Implement if needed
     }
 }
